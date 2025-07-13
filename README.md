@@ -25,9 +25,9 @@ It demonstrates smart contract development, local deployment, and frontend inter
 
 ## Deploy a lottery contract 
 
-"""bash
+```bash
 cd contracts
 npm run compile // compile contract
 npm run test // run unit test for contract
 npm run deploy // deploy contract on test network
-"""
+```
